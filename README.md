@@ -5,7 +5,12 @@
 # There isn't much here, but I'll continue to add more over time.
 
 git init
-git add MyArrayList.java
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://capperj123.github.io
+git puch -u origin main
+
 
 
 
