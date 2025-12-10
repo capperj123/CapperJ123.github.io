@@ -12,6 +12,19 @@ So I needed somewhere to save them just in case my computer fails.
    
 There isn't much here, but I'll continue to add more over time.
 
+## Projects
+### Project 1
+- Description
+- Links
 
+### Project 2
+- Description
+- Links
+
+### Project 3
+- Description
+- Links
+
+  
 
 
