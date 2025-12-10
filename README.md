@@ -4,5 +4,8 @@
 # I need somewhere to save them just in case my computer fails.
 # There isn't much here, but I'll continue to add more over time.
 
+git init
+git add MyArrayList.java
+
 
 
