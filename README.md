@@ -1,8 +1,11 @@
-# About the projects that I uploaded on GitHub
+# Hi
+# Welcome to my website
 
-# I'm uploading code in Java for small projects that I have worked on, be it in college courses or in my spare time.
-# I need somewhere to save them just in case my computer fails.
-# There isn't much here, but I'll continue to add more over time.
+On one hand, I'm uploading code in Java for small projects that I have worked on here, be it in college courses or in my spare time.
+I need somewhere to save them just in case my computer fails.
+
+On another hand, I want to put other things here, such as a portfolio.
+There isn't much here, but I'll continue to add more over time.
 
 git init
 git add README.md
