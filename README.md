@@ -26,8 +26,7 @@ There isn't much here, but I'll continue to add more over time.
 - Links
 
 ## Social Media
-### YouTube
-- Link
+- [YouTube](https://www.youtube.com/@CheekClapperJ69)
 
   
 
